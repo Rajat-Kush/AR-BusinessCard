@@ -69,7 +69,7 @@ This repository contains the source code and assets for an **Augmented Reality (
 
 ## Screenshot
 
-![Project Preview](Screenshot-2024-12-20-113513.png)
+![Project Preview](Screenshot%202024-12-20%20113513.png)
 *Example preview of the AR business card in Unity.*
 
 ---
